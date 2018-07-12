@@ -1,3 +1,5 @@
+This is 6-layered CNN model trained on 9k images containing both open and closed eyes separately for left and right eyes.
+
 Before running the code :->
 1. Please install all the dependencies which are as follow -
 
