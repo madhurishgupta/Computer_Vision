@@ -1,3 +1,3 @@
 # Computer_Vision
 
-Folder name describes the project name
+Folder name describes the project name.
