@@ -1,1 +1,3 @@
-# computer_vision
+# Computer_Vision
+
+Folder name describes the project name
