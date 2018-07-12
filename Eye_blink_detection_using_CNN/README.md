@@ -9,4 +9,4 @@ Before running the code :->
 
 3. Also check spellings of model name is exactly same in the code as that of in this repo.
 
-4. Enjoy computer vision....    \../_ _\../
+4. Enjoy computer vision....   
